@@ -1,0 +1,3 @@
+{
+    "/apis/create-user":"/apis/createUser.js?needsToken=false&addsToken=sub:access"
+}
